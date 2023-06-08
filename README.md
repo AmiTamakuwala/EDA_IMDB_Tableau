@@ -5,11 +5,11 @@
 This project based on IMDB movies. 
 there are many data available on the IMDB movies. but here I worked on tableau tool and make some questions from the available dataset. 
 this project is just simple undersatanding of how we can work with "EXPLORATORY DATA ANALYSIS" along with tableu tool.
-and from the EDA we can solve our different quesrtion in the tool.
+and from the EDA we can solve our different questions in the tool.
 
 *In statistics, exploratory data analysis (EDA) is an approach of analyzing data sets to summarize their main characteristics, often using statistical graphics and other data visualization methods.
 
-* when at the first stage if we looked into the dataset we should have many questions and at the last what result we want to pget is our main aim. 
+* when at the first stage if we looked into the dataset we should have many questions and at the last what result we want to get is our main aim. 
 * so EDA will help to solve our major questions and from there we can find related answers. 
 
 * I prepared some questions from this dataset which basically based on the correlations, revenue and various genres. 
