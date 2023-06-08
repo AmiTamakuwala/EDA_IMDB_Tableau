@@ -18,13 +18,13 @@ and from the EDA we can solve our different questions in the tool.
 *In this project document is important part for the better undersatnding of the project. 
 
 * EDA:-
-* 1. 1.	Is there any relationship between movie budget and revenue?
-* 2.	What are the duration outliers in various genres of movies?
-* 3.	How is the distribution of various movie duration?
-* 4.	Does having more Facebook likes have an impact on revenue?
-* 5.	Is there any relationship between various Facebook likes and IMDB voting?
-* 6.	Correlation matrix between various numerical data points
-* 7.	Is the genre budget changing as time is changing?
-* 8.	What is the distribution of IMDB ratings among various genres?
-* 9.	What is the most revenue-fetching category for a movie?
-* 10.	 Facebook ratings relationship with movie ratings
+1. 	Is there any relationship between movie budget and revenue?
+2.	What are the duration outliers in various genres of movies?
+3.	How is the distribution of various movie duration?
+4.	Does having more Facebook likes have an impact on revenue?
+5.	Is there any relationship between various Facebook likes and IMDB voting?
+6.	Correlation matrix between various numerical data points
+7.	Is the genre budget changing as time is changing?
+8.	What is the distribution of IMDB ratings among various genres?
+9.	What is the most revenue-fetching category for a movie?
+10.	 Facebook ratings relationship with movie ratings
